@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Samikbrz/Samikbrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 Whoami
+🚀 Java & AI Developer | Spring Boot  
 
-Here are some ideas to get you started:
+🔹 Tech Stack:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Recent Activity
+- 🔥 Working on AI-powered recruitment system
+- 🛠️ Improving Spring Boot applications
+- 🎯 Learning more about LLMs and NLP
+
+### 📊 Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Samikbrz&show_icons=true&theme=radical)
